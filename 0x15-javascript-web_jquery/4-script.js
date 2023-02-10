@@ -1,3 +1,4 @@
 $('DIV#toggle_header').click(function () {
-  $('HEADER').toggleClass('green red');
+  $('HEADER').toggleClass('red');
+  $('HEADER').toggleClass('green');
 });
